@@ -13,6 +13,6 @@ class App < Sinatra::Base
     "#{@number*@number}."
   end
 
-  
+
 
 end
